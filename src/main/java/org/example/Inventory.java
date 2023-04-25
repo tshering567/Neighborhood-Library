@@ -3,6 +3,7 @@ package org.example;
 import org.example.Book;
 
 public class Inventory {
+    //Use an array to hold an inventory of at least 5 books of your choice
     public static Book[] Inventory = {
         new Book(1234, "436578923", "Atomic Habits", false,""),
         new Book(2344,"3483456824","The Alchemist",false,""),
